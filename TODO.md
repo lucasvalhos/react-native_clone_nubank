@@ -1,0 +1,3 @@
+- Open menu when user touch on header arrow down icon
+- Hide money info when user touch visibility icon and change icon to visibility-on
+- Open account transactions when user touch in money icon 

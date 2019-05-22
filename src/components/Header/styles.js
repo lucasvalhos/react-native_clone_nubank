@@ -1,9 +1,12 @@
 import styled from 'styled-components/native';
+import { Animated } from 'react-native';
 
 export const Container = styled.View`
   align-items: center;
   padding: 40px 0 30px;
 `;
+
+export const IconContainer = styled(Animated.View)` `;
 
 export const Top = styled.View`
   flex-direction: row;
